@@ -24,3 +24,4 @@ print('Sum of numbers = ', sum, 'Count of number = ', count, 'Average = ', sum/c
 print('Max = ', max, 'Min = ', min)
 #print('Sum of numbers = ', sum)
 #print('Sum of numbers = ', sum)
+###test for github
