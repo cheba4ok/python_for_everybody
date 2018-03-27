@@ -30,4 +30,4 @@ letter_list.sort(reverse = True)
 #print(counts)
 #print(letter_list)
 for (key, value) in letter_list[:10]:
-    print(key, value)
+    print(value, key)
